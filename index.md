@@ -15,3 +15,7 @@
 String cheese = "Hello, world!";
 System.out.print(cheese);
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
